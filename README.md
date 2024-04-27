@@ -9,6 +9,7 @@
 <img align="center" width="500" src="https://github.com/ViktorLuna/Laravuesitory/assets/150304387/8137f235-7c7c-498c-95e5-8608a40e0657"/>
 
 # Roadmap
+- [ ] Email List
 - [ ] Structure for PC and Mobile
 - [ ] Hit Calculator
 - [ ] Profile (Basic Information, Thropies(Hit-King, Consistent, Disciplined))
