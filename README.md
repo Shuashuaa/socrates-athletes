@@ -10,6 +10,7 @@
 
 # Roadmap
 - [ ] Email List
+  - [x] User Interface
 - [ ] Structure for PC and Mobile
 - [ ] Hit Calculator
 - [ ] Profile (Basic Information, Thropies(Hit-King, Consistent, Disciplined))
